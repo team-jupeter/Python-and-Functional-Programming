@@ -26,6 +26,10 @@ As a member of Team Jupeter, my intention to revise the book is to:
  5. Explain debugging and more detailed algorithm theory
  6. Add static typing on code samples.
 
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+The text of the original book is colored black, and the newly added parts are colored blue.
+
+
 ## Readers
 We assume the readers of our revised book have either (1) studied the **EMC** course made by **Team Jupeter(팀 주피터)**, **Scratch coding** for elementary students, or (2) some learning experience on programming languages like JavaScript.
  Expected readers are:
