@@ -2,7 +2,7 @@
 # How to Think Like a Computer Scientist & "Functional" : Learning with Python 3.10.0+
 
 The renowned book "How to Think Like a Computer Scientist: Learning with Python 3, 3rd edition" was published on Feb. 2020 under GNU open source license.
-From the first edition of this book on 2002, it has enlightened many future and now present developers, but, it has a few shortages from the prospect of year 2022. For example,
+From the first edition of this book on 2002, it has enlightened many future and now present developers, but, it has a few shortages from the prospect of year 2022, at least for me. For example,
  1. The grammar used in this book is mostly Python 3.5~3.8, at the time of writing the Python version is 3.10.0 which has a few significant changes.
  2. Rather short of advanced concepts such as Iterators, Generators and Decorators.
  3. Rather short of debugging techniques.
