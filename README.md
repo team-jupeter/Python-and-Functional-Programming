@@ -66,4 +66,3 @@ B --> E[Python & DS]--> F[Python & DS]--> G[Python & DS]--> H[Python & ML]
 B --> I[Gleam] --> J[Rust | Intermediate]--> K[Rust | Advanced]
 ```
 
-**Team Jupeter[팀 주피터]**
