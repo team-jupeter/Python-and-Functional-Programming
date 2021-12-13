@@ -18,7 +18,7 @@ At first, the intended readers were Korean students, but, as revised and newly a
 
 ## Intension
 
-Our intention to revise the book is to:
+As a member of Team Jupeter, my intention to revise the book is to:
  1. Replace the grammar used in the book to those of Python 3.10.0+
  2. Write functional version of sample codes and exercises in the book by using new Python 3.10.0 grammars and functional libraries such as **functools**.
  3. Introduce **static typing** and explain memory architecture such as **stack and heap**.
