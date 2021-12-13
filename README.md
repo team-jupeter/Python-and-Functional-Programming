@@ -1,8 +1,9 @@
 
+
 # How to Think Like a Computer Scientist & "Functional" : Learning with Python 3.10.0+
 
 The renowned book "How to Think Like a Computer Scientist: Learning with Python 3, 3rd edition" was published on Feb. 2020 under GNU open source license.
-From the first edition of this book on 2002, it has enlightened many future and now present developers, but, it has a few shortages from the prospect of year 2022. For example,
+From the first edition of this book on 2002, it has enlightened many future and now present developers, but, it has a few shortages from the prospect of year 2022, at least for me. For example,
  1. The grammar used in this book is mostly Python 3.5~3.8, at the time of writing the Python version is 3.10.0 which has a few significant changes.
  2. Rather short of advanced concepts such as Iterators, Generators and Decorators.
  3. Rather short of debugging techniques.
@@ -18,8 +19,8 @@ At first, the intended readers were Korean students, but, as revised and newly a
 
 ## Intension
 
-Our intention to revise the book is to:
- 1. Replace the grammar used in the book to those of Python 3.10.0+
+As a member of **Team Jupeter,** my intention to revise the book is to:
+ 1. Replace the grammar used in the book with those of Python 3.10.0+
  2. Write functional version of sample codes and exercises in the book by using new Python 3.10.0 grammars and functional libraries such as **functools**.
  3. Introduce **static typing** and explain memory architecture such as **stack and heap**.
  4. Explain some advanced concept such as Generators.
@@ -27,7 +28,7 @@ Our intention to revise the book is to:
  6. Add static typing on code samples.
 
 ## Readers
-We assume the readers of our revised book have either (1) studied our **EMC** course made by **Team Jupeter(팀 주피터)**, **Scratch coding** for elementary students, or (2) some learning experience on programming languages like JavaScript.
+We assume the readers of our revised book have either (1) studied the **EMC** course made by **Team Jupeter(팀 주피터)**, **Scratch coding** for elementary students, or (2) some learning experience on programming languages like JavaScript.
  Expected readers are:
  1. K4 ~ K12 students, age from 10 to 18.
  2. have learned or are learning basic coding courses such as EMC of Team Jupeter
@@ -35,13 +36,16 @@ We assume the readers of our revised book have either (1) studied our **EMC** co
  4. current Python users without functional programming experiences.
 
 ## Youtube
-This being revised book has accompanying lecture videos on Youtube in Korean(한국어) narration. However, not only Korean students, but also those not Korean speakers can freely watch the lectures using Youtube caption and auto translation.
+This being-revised book has accompanying lecture videos on Youtube in Korean(한국어) narration. However, not only Korean students, but also those not Korean speakers can freely watch the lectures using Youtube caption and auto translation.
 The Youtube playlist has about 200 episodes, of which each running time being about 10 minutes. For convenience, the playlist is divided into 4.
 
- 1. Part 1: Episode 001~049 | Chapter 1 ~ 4
+ 1. [Part 1](https://www.youtube.com/watch?v=XyjbAeIj4oA&list=PLlSZlNj22M7RjeCn-sYRHkns9j_gtc2tf): Episode 001~049 | Chapter 1 ~ 4
  2. Part 2: Episode 050~099 | Chapter 5 ~ 8
  3. Part 3: Episode 100~149 | Chapter 9 ~ 15
  4. Part 4: Episode 150~200 | Chapter 16 ~ 20 - those are to-be newly added in this book version in January 2022.
+
+See the playlists of this book.
+See [full playlists](https://www.youtube.com/channel/UCxnsWjMKyb6px5lDiqInDHA/playlists) of Team Jupeter.
 
 ## Further Learnings
 
