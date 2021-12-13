@@ -78,49 +78,6 @@ Beside source codes of the book here, the text of each chapter is stored and edi
 
 The order of Chapter 1 to 15 are same to the original book with some added source codes and text. Chapter 16~20 are to be newly added.
 
-0. [Preface](https://docs.google.com/document/d/1suTMd9zY1mHZCKgfvue9tsEkqtFgtTFM-yDp_rO4UrI/edit?usp=sharing)
-
-1. Chapter 1 | [The way of the program](https://docs.google.com/document/d/1emx2sd2ZX4Qlsp3fhBODX7fYnlH2sI9DL3NZ0TKZSeI/edit?usp=sharing)
-
-2. Chapter 2 | [Variables, expressions and statement](https://docs.google.com/document/d/1_dPJyauAckGjqjZDZ5iTmcGuoX88Q01NJl9d0mMbME0/edit?usp=sharing)
-
-3. Chapter 3 | [Program Flow](https://docs.google.com/document/d/1hSnjCfZKRAvUQMGxibBXUAtqvA61jxvU_PK-SvDDVpM/edit?usp=sharing)
-
-4. Chapter 4 | [Functions](https://docs.google.com/document/d/1stNB0pfuyAPrWryxUx-w6p5UOCVyxEIwF8bcWTykGnA/edit?usp=sharing)
-
-5. Chapter 5 | [Data Types](https://docs.google.com/document/d/1kmjh2COtgQZD5UNvllZ8zwJP6pV38WZLBFzSWQBmA-E/edit?usp=sharing)
-
-6. Chapter 6 | [Numpy](https://docs.google.com/document/d/1KwoEFb50hxaBvRoUZYzbKyVIC_r4wTZ293W9oSNxOxY/edit?usp=sharing)
-
-7. Chapter 7 | [Files](https://docs.google.com/document/d/1qUlvYm3TuPC12tkhHvpFMMbqKIBOucctuqw6pn4WrVw/edit?usp=sharing)
-
-8. Chapter 8 | [Modules](https://docs.google.com/document/d/1897ymL0zzgyZfZx20cFTolsuDhdPuqu_HUPlUH-kfF8/edit?usp=sharing)
-
-9. Chapter 9 | [More datatypes](https://docs.google.com/document/d/1GKYOVSezNl_g2wDqM59YqNrkoM_tHbsjLwVHkrPXwZA/edit?usp=sharing)
-
-10. Chapter 10 | [Recursion](https://docs.google.com/document/d/1-hqMFwDRnxqkgcABHtkTNY-bxRn3V51I-9eGBjiwqA0/edit?usp=sharing)
-
-11. Chapter 11 | [Classes and Objects](https://docs.google.com/document/d/1xHFg8OK3QauMfxcVuQvgTzgGhRtTHJh41CABPLYa52Q/edit?usp=sharing)
-
-12. Chapter 12 | [Exceptions](https://docs.google.com/document/d/1SKSv2S71zQt1kEAG7_MT7xQ626Zd-k96pzUgWPexxYM/edit?usp=sharing)
-
-13. Chapter 13 | [Fitting](https://docs.google.com/document/d/1PTGY7x6dCgCB6LL2ike_GsuAvjqqrFRr_OTL_BJYTcE/edit?usp=sharing)
-
-14. Chapter 14 | [PyGame](https://docs.google.com/document/d/1ev5mql4LqmRUtX-pCqTZKsyyx8GGrtWZeidvpGnl3N8/edit?usp=sharing)
-
-15. Chapter 15 | [Plotting data with matplotlib](https://docs.google.com/document/d/15EGu5DokeJIHryUkR06UGzYuSlLG8h_vUrblQNe_ZB0/edit?usp=sharing)
-
-16. Chapter 16 | Iterators, Generators and Decorators
-
-17. Chapter 17 | Debugging
-
-18. Chapter 18 | functools library
-
-19. Chapter 19 | Coding Projects | Part 1
-
-20. Chapter 20 | Coding Projects | Part 2
-
-21. Appendix | Git
 
 
 
