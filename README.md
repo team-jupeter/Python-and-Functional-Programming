@@ -26,8 +26,7 @@ As a member of Team Jupeter, my intention to revise the book is to:
  5. Explain debugging and more detailed algorithm theory
  6. Add static typing on code samples.
 
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-The text of the original book is colored black, and the newly added parts are colored blue.
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) The text of the original book is colored black, and the newly added parts are colored blue.`#1589F0`
 
 
 ## Readers
